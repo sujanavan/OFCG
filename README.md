@@ -1,5 +1,5 @@
 # OFCG
-<ins><h2>O</h2></ins>nline <u>F</u>lutter <u>C</u>ode <u>G</u>enerator
+<ins>O</ins>nline <ins>F</ins>lutter <ins>C</ins>ode <ins>G</ins>enerator
 
 <i>* This work is only a technical expression of the project idea</i>
 
