@@ -5,7 +5,7 @@
 <a href="https://sujanavan.github.io/OFCG" >Click Here for Demo</a>
 
 What lead to this project idea?<br>
-I was unable to type flutter code<br>
-I was unable to remember all flutter props<br>
-I was unable to remember all flutter widgets<br>
-I was unable to remember all flutter widgets' props
+I was unable to type flutter related code<br>
+I was unable to remember all flutter related props<br>
+I was unable to remember all flutter related widgets<br>
+I was unable to remember all flutter related widgets' props
