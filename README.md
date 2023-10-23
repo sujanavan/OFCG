@@ -1,5 +1,4 @@
-# OFCG
-<ins>O</ins>nline <ins>F</ins>lutter <ins>C</ins>ode <ins>G</ins>enerator
+# Online Flutter Code Generator
 
 <i>* This work is only a technical expression of the project idea</i>
 
